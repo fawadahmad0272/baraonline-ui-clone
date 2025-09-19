@@ -1,0 +1,9 @@
+body {
+  background-color: #222222 !important;
+}
+a:hover {
+  color: #00bc8c !important;
+}
+.active {
+  color: #00bc8c !important;
+}
